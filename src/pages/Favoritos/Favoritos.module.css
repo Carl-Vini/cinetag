@@ -1,4 +1,5 @@
 .container {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
+    margin: 1em 8em;
 }
