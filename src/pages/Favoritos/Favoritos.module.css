@@ -3,3 +3,12 @@
     justify-content: space-evenly;
     margin: 1em 8em;
 }
+
+@media (max-width: 744px) {
+    .container {
+        flex-direction: column;
+        justify-content: space-evenly;
+        align-items: center;
+        
+    }
+}

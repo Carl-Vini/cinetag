@@ -35,7 +35,7 @@ function Player() {
             <Titulo>
                 <h1>Player</h1>
             </Titulo>
-            <section className="styles.container">
+            <section className={styles.container}>
                 <iframe
                     width="100%"
                     height="600"

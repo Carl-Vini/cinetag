@@ -25,3 +25,10 @@
     color: var(--preto);
     text-align: left;
 }
+
+
+@media (max-width: 744px) {
+    .container {
+        width: 85vw;
+    }
+}
